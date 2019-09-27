@@ -1,0 +1,6 @@
+C:\Users\student\Documents\Visual Studio 2017\Projects\02_CSF2\CSF2\ColorMaker\bin\Debug\ColorMaker.dll
+C:\Users\student\Documents\Visual Studio 2017\Projects\02_CSF2\CSF2\ColorMaker\bin\Debug\ColorMaker.pdb
+C:\Users\student\Documents\Visual Studio 2017\Projects\02_CSF2\CSF2\ColorMaker\obj\Debug\ColorMaker.csprojAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2017\Projects\02_CSF2\CSF2\ColorMaker\obj\Debug\ColorMaker.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Visual Studio 2017\Projects\02_CSF2\CSF2\ColorMaker\obj\Debug\ColorMaker.dll
+C:\Users\student\Documents\Visual Studio 2017\Projects\02_CSF2\CSF2\ColorMaker\obj\Debug\ColorMaker.pdb
